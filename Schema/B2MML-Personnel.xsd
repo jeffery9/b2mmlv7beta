@@ -81,7 +81,7 @@
 												Added QualificationTestSpecificationID to Person and PersonnelClass
         V0600   17 Mar 2013     D. Brandl       Changed copyright to MESA International and support for ISA 95 Part 4                                 
         V0700   21 Dec 2018     D. Brandl       Updated Version for 2018 update of ISA 95 Part 2
-												Removed QuaificationTestSpecification definitions, replaced by TestSpecification model
+												Removed QualificationTestSpecification definitions, replaced by TestSpecification model
 				29 Mar 2019		D. Brandl		All future comments and revisions to be recorded in GitHub
 
    </xsd:documentation>

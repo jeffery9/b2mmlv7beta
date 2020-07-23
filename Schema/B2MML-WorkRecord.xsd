@@ -596,7 +596,7 @@
   <xsd:complexType name = "WWorkPerformanceRecordType">
       <xsd:sequence>
          <xsd:group   ref  = "WorkRecordEntryType"/>
-         <xsd:element name = "WorkPerformaance"  type = "WorkPerformanceType"/>
+         <xsd:element name = "WorkPerformance"  type = "WorkPerformanceType"/>
       </xsd:sequence>
   </xsd:complexType>
 
@@ -633,7 +633,7 @@
 
   <xsd:complexType name = "WWorkDirectivesType">
       <xsd:sequence>
-         <xsd:element name = "WorkDirectiverRecord"   type = "WWorkDirectiveRecordType"
+         <xsd:element name = "WorkDirectiveRecord"   type = "WWorkDirectiveRecordType"
                                                    minOccurs="0" maxOccurs="unbounded"/>
       </xsd:sequence>
   </xsd:complexType>

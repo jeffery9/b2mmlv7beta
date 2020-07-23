@@ -70,7 +70,7 @@
 
 
 <!--  ********************************************************************************************   -->
-<!--  BinaryObjetc Type used for any element that requires a set of finite length sequence of octets -->
+<!--  BinaryObject Type used for any element that requires a set of finite length sequence of octets -->
 <!--  ********************************************************************************************   -->
     <xsd:complexType name="BinaryObjectType">
         <xsd:simpleContent>

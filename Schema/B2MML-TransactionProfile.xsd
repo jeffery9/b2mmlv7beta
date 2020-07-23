@@ -144,7 +144,7 @@
 					<!-- Process Segment Model -->
                         <xsd:enumeration value="PROCESS SEGMENT"/>
                         <xsd:enumeration value="PROCESS INFORMATION"/>
-					<!-- Opertional Location Model -->
+					<!-- Operational Location Model -->
                         <xsd:enumeration value="OPERATIONAL LOCATION"/>
                         <xsd:enumeration value="OPERATIONAL LOCATION CLASS"/>
                         <xsd:enumeration value="OPERATIONAL LOCATION INFORMATION"/>
@@ -152,7 +152,7 @@
                         <xsd:enumeration value="OPERATIONS DEFINITION"/>
                         <xsd:enumeration value="OPERATIONS SEGMENT"/>
                         <xsd:enumeration value="OPERATIONS DEFINITION INFORMATION"/>
-					<!-- Opwerations Event Model -->
+					<!-- Operations Event Model -->
                         <xsd:enumeration value="OPERATIONS EVENT"/>
                         <xsd:enumeration value="OPERATIONS EVENT CLASS"/>
                         <xsd:enumeration value="OPERATIONS EVENT DEFINITION"/>
